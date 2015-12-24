@@ -8,11 +8,11 @@ To see a bunch of examples of jScrollPane in action please visit the [jScrollPan
 
 Either run
 
-```composer require nsept/yii2-jscrollpane "*"```
+```composer require nsept/yii2-jscrollpane "@dev"```
 
 or add
 
-```"nsept/yii2-jscrollpane": "*"```
+```"nsept/yii2-jscrollpane": "@dev"```
 
 to the ```require``` section of your `composer.json` file.
 
