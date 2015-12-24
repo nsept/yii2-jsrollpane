@@ -13,7 +13,7 @@
   ],
   "require": {
     "nsept/yii2-mousewheel": "*",
-    "bower-asset/jquery.jscrollpane": "*"
+    "bower-asset/jquery.jscrollpane": "@dev"
   },
   "autoload": {
     "psr-4": {
