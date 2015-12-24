@@ -1,0 +1,23 @@
+{
+  "name":  "nsept/yii2-jscrollpane",
+  "version": "1.0.0",
+  "description": "A jQuery plugin which allows you to replace a browser's default scrollbars.",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "extension", "jScrollPane", "widget", "jquery", "scroll"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nsept",
+      "email": "nsept@ya.ru"
+    }
+  ],
+  "require": {
+    "nsept/yii2-mousewheel": "*",
+    "bower-asset/jquery.jscrollpane": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "nsept\\jscrollpane\\": ""
+    }
+  }
+}
